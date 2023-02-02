@@ -23,14 +23,22 @@ div.desc {
 
 
 div.heading {
-    color: rgb(1, 56, 1)
+    background-color: rgb(1, 56, 1);
+    color: white;
+    text-align: center;
 }
 
 div.name {
-    color: darkgreen
+    color: darkgreen;
+    text-align: center;
 }
 
 div.title {
-    color: forestgreen
+    color: forestgreen;
+    text-align: center;
+}
+
+h3 {
+    color: darkgreen
 }
 
